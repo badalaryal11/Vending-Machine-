@@ -1,0 +1,5 @@
+0 Class 5
+1 Class 10
+2 Class 20
+3 Class 50
+4 Class 100
